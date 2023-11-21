@@ -75,3 +75,5 @@ Special thanks to Mike Tan (ytan@mitre.org), Omid Aramoon(oaramoon@mitre.org), a
 Approved for Public Release; Distribution Unlimited. Public Release Case Number 23-3720
 ©2023 The MITRE Corporation. ALL RIGHTS RESERVED.
 
+## License
+This work is published under the apache-2.0 license. Please see [LICENSE](./LICENSE) for details.
