@@ -68,7 +68,7 @@ Some common parameters to experiment with include:
 
 Additionally, you may choose to switch on the printability parameter (`--printability`), which will compare the GAN generated patch pixel values to real world printer colors. You may utilize the provided color_palette.txt for this, or you may use your own.
 
-## Authors and acknowledgment
+## Authors and Acknowledgement
 Special thanks to Mike Tan (ytan@mitre.org), Omid Aramoon(oaramoon@mitre.org), and Frank Chang (frank.chang1000@gmail.com) for their contributions to this work.
 
 ## Notice
